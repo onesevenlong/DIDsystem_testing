@@ -6,7 +6,6 @@ revocation records in a shared authenticated state.
 
 The code is split into focused modules and uses the Python standard library.
 It includes no plotting scripts, experiment datasets or benchmark results.
-See [中文说明](README_zh.md) for a short Chinese introduction.
 
 ## Features
 
